@@ -19,7 +19,7 @@ Whether you're just starting out or brushing up before your next big interview�
 
 ## 🤝 Contribute
 
-Contributions are highly welcome!
+Contributions and suggestions are highly welcome! Please email at rwalid1@umbc.edu
 
 You can:
 - Add new questions and answers 💡
